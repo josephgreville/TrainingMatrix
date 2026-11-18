@@ -1,0 +1,9 @@
+role,required_course_ids
+Welder,C01;C02;C05;C08;C09;C10
+Fabricator,C01;C02;C05;C09;C10
+Assembler,C01;C02;C10
+Wiring technician,C01;C02;C10;C11
+Warehouse operative,C01;C02;C06
+Quality inspector,C01;C02;C10
+Maintenance engineer,C01;C02;C05;C09;C10;C07
+Supervisor,C01;C02;C03;C04

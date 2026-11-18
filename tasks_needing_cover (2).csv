@@ -1,0 +1,7 @@
+task_id,task,required_courses
+T01,Structural welding,C08;C01;C05
+T02,Overhead crane lifts,C07;C01
+T03,Goods in and forklift,C06;C01;C02
+T04,Wiring loom build,C11;C01
+T05,Final inspection sign-off,C14;C01
+T06,First aid cover on shift,C04

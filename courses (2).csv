@@ -1,0 +1,16 @@
+course_id,course_name,importance,valid_for_months
+C01,Health and safety induction refresher,Must-have,36
+C02,Manual handling,Must-have,36
+C03,Fire marshal,Must-have,36
+C04,First aid at work,Must-have,36
+C05,Working at height,Must-have,36
+C06,Forklift licence,Must-have,60
+C07,Overhead crane operation,Must-have,60
+C08,Welding qualification (ISO 9606),Must-have,24
+C09,Abrasive wheels,Must-have,36
+C10,COSHH awareness,Must-have,36
+C11,Electrical wiring standard (IPC),Must-have,24
+C12,Press brake operation,Nice-to-have,60
+C13,Lean basics,Nice-to-have,no expiry
+C14,Inspection and measurement tools,Nice-to-have,36
+C15,Mentor and coach,Nice-to-have,no expiry

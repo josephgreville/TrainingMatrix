@@ -1,0 +1,6 @@
+staff_id,from_date,to_date,type,reason_detail
+S033,2026-11-16,2026-11-27,Leave,Booked leave
+S004,2026-11-18,2026-11-20,Absent,"Back pain, GP appointment"
+S005,2026-11-23,2026-12-04,Leave,Booked leave
+S036,2026-11-18,2026-11-18,Absent,Family emergency
+S031,2026-11-19,2026-11-30,Leave,Booked leave

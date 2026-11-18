@@ -1,0 +1,37 @@
+staff_id,name,role,department,shift,start_date,home_address,date_of_birth,personal_mobile,ni_number,annual_salary_gbp,emergency_contact
+S001,Aaron Dunn,Welder,Fabrication,Earlies,2023-10-16,"103 Harbour View, Bexhill TN34 4XX",1997-09-13,07700 900338,QQ071270C,37500,Alex Khan 07700 900365
+S002,Beth Grant,Welder,Fabrication,Days,2022-05-29,"25 Church Road, Bexhill TN38 9XX",1981-07-24,07700 900347,QQ292617C,43500,Sam Khan 07700 900791
+S003,Callum Irwin,Welder,Fabrication,Earlies,2016-03-08,"79 Oak Avenue, St Leonards TN39 9XX",2000-12-22,07700 900988,QQ303322C,48000,Jo Lee 07700 900337
+S004,Dani Zahir,Welder,Fabrication,Days,2024-01-15,"1 Harbour View, Hastings TN38 3XX",1984-02-09,07700 900659,QQ181465C,32000,Pat Brown 07700 900484
+S005,Ellis Young,Welder,Fabrication,Days,2015-05-21,"102 Oak Avenue, Rye TN37 3XX",1971-03-05,07700 900439,QQ009667C,24500,Sam Hughes 07700 900237
+S006,Freya Hale,Welder,Fabrication,Days,2023-12-28,"43 Meadow Close, Hastings TN32 9XX",1988-12-02,07700 900195,QQ953863C,43000,Jo Brown 07700 900961
+S007,Gareth Cole,Fabricator,Fabrication,Days,2026-06-04,"100 Harbour View, Rye TN38 4XX",1978-10-20,07700 900515,QQ310243C,33500,Pat Brown 07700 900625
+S008,Hannah Tate,Fabricator,Fabrication,Days,2024-12-10,"29 Oak Avenue, Hastings TN32 4XX",2000-10-22,07700 900512,QQ610559C,33000,Pat Brown 07700 900092
+S009,Imran Usher,Fabricator,Fabrication,Earlies,2016-11-19,"90 Elm Grove, Rye TN39 2XX",2002-01-17,07700 900361,QQ439384C,38000,Sam Brown 07700 900743
+S010,Jade Kemp,Fabricator,Fabrication,Days,2019-05-18,"13 Oak Avenue, Eastbourne TN36 2XX",1966-12-19,07700 900803,QQ452979C,40000,Alex Hughes 07700 900478
+S011,Kieran Okafor,Fabricator,Fabrication,Days,2016-05-07,"13 Elm Grove, Hastings TN39 2XX",1972-11-23,07700 900658,QQ546577C,51500,Alex Hughes 07700 900550
+S012,Lucy Clarke,Fabricator,Fabrication,Earlies,2023-12-23,"35 Elm Grove, Eastbourne TN39 2XX",1973-05-26,07700 900218,QQ550454C,38000,Sam Lee 07700 900521
+S013,Marcus Dawson,Fabricator,Fabrication,Earlies,2020-03-07,"45 Mill Lane, Battle TN40 9XX",1975-11-11,07700 900260,QQ646687C,45500,Alex Lee 07700 900598
+S014,Nadia Wren,Assembler,Assembly,Earlies,2024-03-28,"32 Oak Avenue, Rye TN38 7XX",1968-11-17,07700 900363,QQ442888C,42000,Sam Lee 07700 900183
+S015,Owen Ashby,Assembler,Assembly,Days,2019-06-18,"95 Station Approach, Battle TN31 1XX",2002-07-03,07700 900815,QQ724834C,24500,Jo Khan 07700 900359
+S016,Priya Frost,Assembler,Assembly,Earlies,2020-05-28,"7 Elm Grove, Eastbourne TN31 6XX",1984-02-12,07700 900231,QQ419498C,42000,Alex Brown 07700 900759
+S017,Quinn Nash,Assembler,Assembly,Days,2016-02-05,"98 Victoria Street, Hastings TN35 9XX",1994-11-20,07700 900961,QQ919135C,26000,Sam Lee 07700 900374
+S018,Rhys Lowe,Assembler,Assembly,Earlies,2019-07-16,"116 Elm Grove, Hastings TN38 2XX",1965-01-15,07700 900161,QQ860966C,36000,Pat Hughes 07700 900967
+S019,Sophie Quill,Assembler,Assembly,Earlies,2022-08-04,"19 Harbour View, Rye TN32 1XX",1974-08-13,07700 900353,QQ840922C,34500,Jo Brown 07700 900558
+S020,Tom Jarvis,Wiring technician,Electrical,Earlies,2020-03-29,"108 Elm Grove, Bexhill TN37 1XX",1999-02-14,07700 900686,QQ107170C,35500,Pat Hughes 07700 900749
+S021,Una Pryce,Wiring technician,Electrical,Days,2023-12-25,"8 Elm Grove, St Leonards TN31 1XX",1965-02-02,07700 900149,QQ720418C,45000,Pat Hughes 07700 900604
+S022,Vikram Lamb,Wiring technician,Electrical,Days,2016-11-02,"31 Church Road, Eastbourne TN38 2XX",1989-03-02,07700 900851,QQ461704C,32500,Pat Brown 07700 900378
+S023,Will Knight,Wiring technician,Electrical,Days,2017-02-06,"111 Victoria Street, Battle TN32 3XX",1981-10-09,07700 900271,QQ843868C,43000,Jo Brown 07700 900654
+S024,Xena Marsh,Wiring technician,Electrical,Days,2016-10-19,"31 Harbour View, St Leonards TN32 3XX",1976-09-22,07700 900539,QQ903706C,51500,Pat Lee 07700 900290
+S025,Yusuf Bright,Warehouse operative,Warehouse,Days,2018-06-21,"22 Station Approach, Hastings TN31 4XX",1970-02-02,07700 900977,QQ568149C,27500,Alex Khan 07700 900337
+S026,Zoe Evans,Warehouse operative,Warehouse,Days,2018-02-28,"86 Victoria Street, Rye TN40 7XX",2000-12-13,07700 900457,QQ373012C,35000,Pat Khan 07700 900756
+S027,Adrian Hart,Warehouse operative,Warehouse,Days,2018-03-07,"63 Harbour View, Rye TN32 8XX",1997-12-03,07700 900299,QQ495703C,35000,Alex Lee 07700 900924
+S028,Bella Ives,Warehouse operative,Warehouse,Days,2025-04-13,"80 Victoria Street, Bexhill TN39 5XX",1976-12-16,07700 900309,QQ513951C,28500,Sam Brown 07700 900027
+S029,Craig Rowe,Warehouse operative,Warehouse,Days,2018-02-13,"37 Elm Grove, St Leonards TN31 8XX",1978-09-19,07700 900504,QQ959656C,27500,Jo Brown 07700 900433
+S030,Donna Vale,Quality inspector,Quality,Earlies,2023-01-20,"10 Mill Lane, Hastings TN33 1XX",1985-06-16,07700 900245,QQ401281C,38000,Sam Lee 07700 900747
+S031,Elliot Gill,Quality inspector,Quality,Earlies,2015-12-12,"12 Church Road, Rye TN34 2XX",1979-04-16,07700 900712,QQ937029C,46000,Pat Lee 07700 900616
+S032,Fiona Shah,Quality inspector,Quality,Days,2021-08-13,"100 Victoria Street, St Leonards TN32 7XX",2001-07-19,07700 900964,QQ177789C,28500,Pat Lee 07700 900312
+S033,Glen Barnes,Maintenance engineer,Maintenance,Earlies,2017-10-20,"37 Elm Grove, Battle TN39 7XX",1989-12-22,07700 900096,QQ404694C,29000,Alex Lee 07700 900947
+S034,Holly Fox,Maintenance engineer,Maintenance,Days,2026-04-06,"25 Victoria Street, Bexhill TN35 2XX",2000-04-13,07700 900491,QQ407143C,25500,Sam Khan 07700 900500
+S035,Ian Joyce,Supervisor,Operations,Days,2022-12-17,"110 Meadow Close, Bexhill TN34 5XX",1971-04-26,07700 900601,QQ909487C,39500,Pat Lee 07700 900971
+S036,Jodie Ellery,Supervisor,Operations,Days,2024-09-12,"48 Elm Grove, Eastbourne TN39 7XX",1984-11-22,07700 900698,QQ581124C,42000,Pat Hughes 07700 900971
